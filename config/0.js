@@ -3,7 +3,7 @@
 trials.push({
   set: 'Python',
   course: {
-    name: 'S-拯救编程猫',
+    name: 'S-拯救编程猫-🐙',
     form: [
       {
         title: '基础信息',

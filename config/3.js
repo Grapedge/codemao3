@@ -3,7 +3,7 @@
 trials.push({
   set: 'Python',
   course: {
-    name: '星光守护者',
+    name: '星光守护者-发',
     form: [
       {
         title: '基础信息',

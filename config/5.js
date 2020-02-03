@@ -3,7 +3,7 @@
 trials.push({
   set: "Python",
   course: {
-    name: "Hello, codemao!",
+    name: "Hello, codemao!-包",
     form: [
       {
         title: "基础信息",
